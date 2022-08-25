@@ -2,8 +2,8 @@
 
 /**
  * execution - executes commands entered by users
- *@cp: command
- *@cmd:vector array of pointers to commands
+ * @cp: command
+ * @cmd:vector array of pointers to commands
  * Return: 0
  */
 void execution(char *cp, char **cmd)
